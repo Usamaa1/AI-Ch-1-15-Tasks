@@ -1,1 +1,1 @@
-# AI-Ch-1-15-Tasks
+# AI-Chapters Tasks
